@@ -101,8 +101,8 @@
 <br>
 
 <li>
-<a href="https://twitter.com/riquecardosos" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  riquecardosos-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://twitter.com/rique__cardoso" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  rique__cardoso-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
