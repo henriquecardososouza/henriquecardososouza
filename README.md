@@ -10,7 +10,7 @@
 
 <br>
 
-- A passionate Full-Stack developer
+- A passionate Software Developer
 - Currently studying Information Systems at <a href="https://unimontes.br">UNIMONTES</a>
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/159iHFjDwr09tBVVEdu6y_v0I5j2ddIvw/view?usp=sharing)
 
